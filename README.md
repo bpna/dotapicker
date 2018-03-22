@@ -1,0 +1,2 @@
+# dotapicker
+For learning dota
